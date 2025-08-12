@@ -8,7 +8,7 @@ Prerequisites:
 
 
 Approach:
--We first create an HTML file where we have declared the basic structure of a website.
+- We first create an HTML file where we have declared the basic structure of a website.
 -We have created a Header, main, products, about, and contact-us section on the web page.
 -We have added images in the background with the help of CSS.
 -We have aligned the products with the help of Flexbox in CSS.
