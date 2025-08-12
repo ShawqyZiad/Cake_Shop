@@ -7,7 +7,7 @@ Every business is going online nowadays for better growth and productivity. We a
 - JavaScript
 
 
-Approach:
+# Approach:
 - We first create an HTML file where we have declared the basic structure of a website.
 - We have created a Header, main, products, about, and contact-us section on the web page.
 - We have added images in the background with the help of CSS.
